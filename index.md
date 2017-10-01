@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 100sang
 
-You can use the [editor on GitHub](https://github.com/100sang/100sang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+i+j로 키보드 시작. Computer Science. Social Media PR, Web Master, Java Developer... <br />
+Site Operation with APM<br />
+목표는 한계단씩 정복. 비밀 파헤치기. 끄적거리기. 잡념가. 일상의 독백. 리듬에 맞춰 흥얼거리기. 빨간펜으로 밑줄긋기로 일상을 보내는 사색가<br />
+<ul>
+<li>100SANG * 일상 [바로가기](https://100sang.tistory.com)</li>
+<li>100SANG * Dev [바로가기]https://github.com/100sang)</li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### with Python
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2017. 어느날. 운명처럼 시작. 
 
 ```markdown
-Syntax highlighted code block
+**References**
 
-# Header 1
-## Header 2
-### Header 3
+- '모두의 파이썬' [Link](https://github.com/100sang/lesson_python)
+- '파이썬 웹프로그래밍(Django)' [Link](https://github.com/100sang/lesson_django)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/100sang/100sang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [바로가기]https://github.com/100sang).
